@@ -11,5 +11,11 @@ Anyhoo, CR has been a top 3 app for me in the past 3 months - the other two are 
   
 Wikipedia defines CR as a freemium mobile tower rush game. It builds on the idea of a card-based RPG ("I play a Blizzard with 4 attack power against your Wizard of 3 armour and 2 health") by adding loot-box rewards and PvP gameplay. To unlock more and As you gain XP points  armies attack the opponent's tower and need to take it down before they destroy yours.  are attacking the enemy fort even as they
 
+I bet Supercell employees'd be like the happiest people ever really. And imagine having such profound effect on this person living in an awesome flat in downtown Chicago (that's the longest I've ever talked at a stretch without mentioning my awesome apartment).
+Last week CR changed noticeably a noticeable upgrade to the multi-player/clan features. 
 
-Last week I saw a noticeable upgrade to the multi-player/clan features. 
+How do a few people from a blah blah background set up a billion dollar company?
+Dedicated people, into it, thinking along different dimensions/features, survivorship bias. How do you quantify what's engaging - arrange 10 ideas in increasing oder of profitabilty?
+
+PUBG & rules of survival.
+
