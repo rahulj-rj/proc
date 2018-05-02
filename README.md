@@ -3,6 +3,15 @@
 This makes sense. I can edit text here. Netflix is running The Office (US). And it's a fine fine Sunday evening!
 I'm trying to explore github. It's not like I suddenly felt an urge to write random things with some version control thrown in. Maybe it was when I flipped through some old notebooks from ages ago. But it can be fun to look back and relive a feeling.
 
+What makes a gaming company tick:
+10bn valuation for supercell in 2016. 
+https://www.forbes.com/sites/ywang/2016/06/22/with-supercell-purchase-tencent-makes-global-expansion-a-priority/#67501d424610
+
+How do you value a game? 
+DCF; value user engagement; value developers/team; platform risks - what if android/windwos goes down?
+Zynga, pubg, monolith, blizzard
+
+
 Getting to the point, I think I'll talk about a video game today. It's called Clash Royale, published in 2016 by Supercell. 
 - Whoa! This just in:  It's the top grossing android app. Followed by Pandora Music, Candy Crush Saga. https://play.google.com/store/apps/collection/topgrossing?hl=en
 - The company itself was setup in Finland, 2010. Posted a revenue of EUR 21.6bn in 2016. Good read here https://uk.reuters.com/article/us-supercell-results/clash-of-clans-maker-profit-up-despite-pokemon-challenge-idUKKBN15U15I. Their other hit is Clash of Clans at #13 today.
