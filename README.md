@@ -1,10 +1,20 @@
 # proc
 
-Video games are cool. I remember the first time I ever saw one was at my father's workplace. I have lost count of the summers I spent in that lab since then. I almost want to talk about the tiny computer memories and the large floppy disks but that makes me feel old. Instead let's talk about some other numbers. The world market stood at about $120 billion last year, powered by a third of all humanity. This is an interesting sector because, like the rest of the tech industry, it's evolving quickly and in somewhat unpredictable directions. Smartphones brought with them a horde of developers and fickle users, who remove 4 of 5 apps within 90 days of installing them. And with bandwidth becoming 
+Video games are cool. I remember the first time I ever saw one was at my father's workplace. I have lost count of the summers I spent in that lab since then. I almost want to talk about the tiny computer memories and the large floppy disks but that makes me feel old. Instead let's talk about some other numbers. The world market stood at about $120 billion last year, powered by a third of all humanity. This is an interesting sector because, like the rest of the tech industry, it's evolving quickly and in all directions. Smartphones brought with them a horde of developers and fickle users, who remove 4 of 5 apps within 90 days of installing them. And with bandwidth becoming increasingly cheap, multiplayer games are becoming the norm. They add an element of thrill and unpredictability that bots haven't been able to replicate (so far!).
+
+I got hooked to one such game recently, one called Clash Royale. It's a multiplayer-only tower-defense game that has elements of card drafting woven in. It was developed by the Finnish company Supercell in Q1 2016 and has stayed on top downloaded and top grossing charts since then. 
+
+What makes a video game tick? Ok I think it should be challenging but not too much. We all like winning, but if you let people win all the time you'd also want to make sure that people don't get too far ahead or back. and we do a good enough job of attribution bias. 
+
+and rewards/levels should have diminishing returns 
+Essentials: Challenging
+
+Nice-to-haves: Cute 
+
+This article is about Clash Royale.
 
 
 
-it has a bunch of industry upstarts and tech veterans all vying for that 
 
 
 
@@ -18,6 +28,8 @@ https://www.forbes.com/sites/johnkoetsier/2018/02/15/apple-captures-51-of-global
 
 Retention rate http://info.localytics.com/blog/mobile-apps-whats-a-good-retention-rate
 
+ 62% of users install games on their phones within a week of buying: https://medium.com/@sm_app_intel/new-mobile-game-statistics-every-game-publisher-should-know-in-2016-f1f8eef64f66
+ 
 don't want to brag about the small memory sizes and large floppy sizes, but 
 
 show off about tAnd since then, video game makers have lost have lost count of their MAUs ()
