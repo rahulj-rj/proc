@@ -1,5 +1,27 @@
 # proc
 
+Video games are cool. I remember the first time I ever saw one was at my father's workplace. I have lost count of the summers I spent in that lab since then. I almost want to talk about the tiny computer memories and the large floppy disks but that makes me feel old. Instead let's talk about some other numbers. The world market stood at about $120 billion last year, powered by a third of all humanity. This is an interesting sector because, like the rest of the tech industry, it's evolving quickly and in somewhat unpredictable directions. Smartphones brought with them a horde of developers and fickle users, who remove 4 of 5 apps within 90 days of installing them. And with bandwidth becoming 
+
+
+
+it has a bunch of industry upstarts and tech veterans all vying for that 
+
+
+
+US market: http://www.theesa.com/article/us-video-game-industry-revenue-reaches-36-billion-2017/
+
+Global market: 
+https://newzoo.com/insights/articles/global-games-market-reaches-137-9-billion-in-2018-mobile-games-take-half/
+
+Smartphone market:
+https://www.forbes.com/sites/johnkoetsier/2018/02/15/apple-captures-51-of-global-smartphone-revenues-3x-samsung-and-7x-huawei/#7989cfe57dda
+
+Retention rate http://info.localytics.com/blog/mobile-apps-whats-a-good-retention-rate
+
+don't want to brag about the small memory sizes and large floppy sizes, but 
+
+show off about tAnd since then, video game makers have lost have lost count of their MAUs ()
+
 This makes sense. I can edit text here. Netflix is running The Office (US). And it's a fine fine Sunday evening!
 I'm trying to explore github. It's not like I suddenly felt an urge to write random things with some version control thrown in. Maybe it was when I flipped through some old notebooks from ages ago. But it can be fun to look back and relive a feeling.
 
